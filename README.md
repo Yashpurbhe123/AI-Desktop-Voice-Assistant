@@ -7,15 +7,14 @@ AI Desktop Voice Assistants has transformed how we interact with computer. AI de
 <br>•	Intelligent Personal Assistant
 <br>•	Automated Personal Assistant
 <br>•	Virtual Digital Assistants
-
 <br>Nowadays AI voice assistant is very useful to human. It makes human life easier like operate PC’s or laptop on only voice command. AI voice assistant is a less time consuming. By using AI voice assistant, we save our time and contribute in other works. AI voice assistants are typically cloud-based program that requires internet connected devices. AI voice assistant is the flexibility to contract for just the services they need. For creating AI voice assistant for your computer go from basics python. AI voice assistants are task-oriented. AI voice assistant’s ability to understand and perform requests. Virtual assistants are a software that understands verbal and written commands and completes task assigned by clients. AI voice assistants are able to interpret human speech and respond via synthesized voices. There are several voice assistants in market like Siri for apple TV remote, Google Assistant for pixel XL smartphones, Alexa as a smart speaker which is developed by using Raspberry Pi. As like this all-virtual assistant we also created an AI voice assistant for windows. We use Artificial Intelligence technology for this project. Also use python as a programming language, because python offers a good major library. For this software use microphone as input device to receive voice requests from user and speaker as output device to give the output voice. This process is the combination of several different technologies like voice recognition, voice analysis and language processing. Virtual assistant uses Natural Processing language to match user text or voice input to executable commands. When a user gives a command to personal virtual assistant to perform a task, the natural language is converted the audio signals into digital signals AI voice assistant scan provide several services which includes:<br>
-<br>•	Showing latest news.<br>
+<br>•	Showing latest news
 <br>•	Searching information on Wikipedia
-<br>•	Play music, movies, etc.<br>
-<br>•	Showing date-time.<br>
-<br>•	Managing emails.<br>
-<br>•	Open apps.<br>
-<br>•	Taking photos using the computer's camera.<br>
-<br>•	Writing and reading notes.<br>
-<br>•	Providing location information.<br>
-<br>•	Taking and displaying screenshots.<br>
+<br>•	Play music, movies, etc
+<br>•	Showing date-time
+<br>•	Managing emails
+<br>•	Open apps
+<br>•	Taking photos using the computer's camera
+<br>•	Writing and reading notes
+<br>•	Providing location information
+<br>•	Taking and displaying screenshots
