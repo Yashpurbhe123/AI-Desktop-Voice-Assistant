@@ -1,38 +1,21 @@
 # AI-Desktop-Voice-Assistant
 AI Desktop Voice Assistants has transformed how we interact with computer. AI desktop voice assistant can understand human language voice commands and do primary desktop job. 
 
-    <h1>AI Voice Assistant</h1>
-    <p>In today’s era, almost all tasks are digitalized. We have smartphones in hand, and it is nothing less than having the world at your fingertips. These days, we aren’t even using fingers. We just speak of the task, and it is done. There exist systems where we can say, "Text Dad, 'I’ll be late today.'" and the text is sent. That is the task of an AI Voice Assistant.</p>
-    
-    <p>AI voice assistants are artificial intelligence software that allows us to interact with technology using natural language. AI voice assistants are used to run machines like laptops or PCs on your own command. They are application programs that understand natural language and voice commands to complete tasks for users.</p>
 
-    <p>They can perform a wide range of tasks, from answering questions, opening applications, searching for information, and much more. Users can ask their assistants questions, control their laptop, PC, and media playback via voice, and manage basic tasks such as email, to-do lists, opening or closing applications, sending messages, etc., with verbal commands only.</p>
-
-    <h2>Types of AI Voice Assistants</h2>
-    <ul>
-        <li>Intelligent Personal Assistant</li>
-        <li>Automated Personal Assistant</li>
-        <li>Virtual Digital Assistants</li>
-    </ul>
-
-    <p>Nowadays, AI voice assistants are very useful to humans. They make life easier, like operating PCs or laptops with only voice commands. AI voice assistants save time, allowing users to contribute to other tasks. They are typically cloud-based programs that require internet-connected devices and offer flexibility by allowing users to request only the services they need.</p>
-
-    <p>For creating AI voice assistants for your computer, starting with basic Python is a good approach. AI voice assistants are task-oriented and have the ability to understand and perform requests. They interpret human speech and respond via synthesized voices.</p>
-
-    <p>There are several voice assistants in the market, such as Siri for Apple TV remote, Google Assistant for Pixel XL smartphones, and Alexa as a smart speaker developed using Raspberry Pi. In a similar way, we have created an AI voice assistant for Windows. We use Artificial Intelligence technology for this project, along with Python as the programming language, because Python offers a good major library for such tasks.</p>
-
-    <p>The software uses a microphone as an input device to receive voice requests from the user and a speaker as an output device to give the output voice. This process combines several different technologies like voice recognition, voice analysis, and language processing. Virtual assistants use Natural Language Processing (NLP) to match user text or voice input to executable commands. When a user gives a command to a personal virtual assistant to perform a task, the natural language is converted from audio signals into digital signals.</p>
-
-    <h2>Services Provided by AI Voice Assistants</h2>
-    <ul>
-        <li>Showing the latest news</li>
-        <li>Searching information on Wikipedia</li>
-        <li>Playing music, movies, etc.</li>
-        <li>Showing date and time</li>
-        <li>Opening apps like PPT,Word,excel,telegram</li>
-        <li>Taking photos using the computer's camera</li>
-        <li>Writing and reading notes</li>
-        <li>Providing location information</li>
-    </ul>
-
+In today’s era almost all tasks are digitalized. We have Smartphone in hands and it is nothing less than having world at your fingertips. These days we aren’t even using fingers. We just speak of the task and it is done. There exist systems where we can say Text Dad, “I’ll be late today.” And the text is sent. That is the task of an AI Voice Assistant. AI voice assistants are artificial intelligence software that allows us to interact with technology using natural language.
+AI voice assistant is used to run machine like laptop or PC on your own command. AI voice assistant is an application program that understands natural language and voice commands to complete tasks for the users. They can perform a wide range of tasks, from answering questions opening application, searching information and many more. The Users can ask their assistants’ questions, control their laptop, pc and media playback via voice, and manage other basic tasks such as email, to-do lists, open or close any application, send messages etc. with verbal commands only. Some other types of Voice Assistant are:
+•	Intelligent Personal Assistant
+•	Automated Personal Assistant
+•	Virtual Digital Assistants
+            Nowadays AI voice assistant is very useful to human. It makes human life easier like operate PC’s or laptop on only voice command. AI voice assistant is a less time consuming. By using AI voice assistant, we save our time and contribute in other works. AI voice assistants are typically cloud-based program that requires internet connected devices. AI voice assistant is the flexibility to contract for just the services they need. For creating AI voice assistant for your computer go from basics python. AI voice assistants are task-oriented. AI voice assistant’s ability to understand and perform requests. Virtual assistants are a software that understands verbal and written commands and completes task assigned by clients. AI voice assistants are able to interpret human speech and respond via synthesized voices. There are several voice assistants in market like Siri for apple TV remote, Google Assistant for pixel XL smartphones, Alexa as a smart speaker which is developed by using Raspberry Pi. As like this all-virtual assistant we also created an AI voice assistant for windows. We use Artificial Intelligence technology for this project. Also use python as a programming language, because python offers a good major library. For this software use microphone as input device to receive voice requests from user and speaker as output device to give the output voice. This process is the combination of several different technologies like voice recognition, voice analysis and language processing. Virtual assistant uses Natural Processing language to match user text or voice input to executable commands. When a user gives a command to personal virtual assistant to perform a task, the natural language is converted the audio signals into digital signals AI voice assistant scan provide several services which includes: 
+•	Showing latest news.
+•	Searching information on Wikipedia
+•	Play music, movies, etc.
+•	Showing date-time.
+•	Managing emails.
+•	Open apps.
+•	Taking photos using the computer's camera
+•	Writing and reading notes
+•	Providing location information
+•	Taking and displaying screenshots
 
