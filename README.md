@@ -20,4 +20,4 @@ AI Desktop Voice Assistants has transformed how we interact with computer. AI de
 <br>• Shutdown thw window by voice command
 
 
-**NOTE: Enter Your own apps path ok given section**
+**NOTE: Enter Your own application path in given section**
